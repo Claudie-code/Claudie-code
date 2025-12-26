@@ -2,7 +2,6 @@
 TypeScript & React Developer
 
 - 🌐 Portfolio: [https://claudiegueguen.com](https://claudiegueguen.com)
-- 📫 Contact: contact@claudiedev.com
 - ⚡ Skills: React, Next.js, TypeScript, TailwindCSS, Shadcn, PostgreSQL, Supabase, Express
 
 ---

@@ -1,4 +1,4 @@
-# Hi, I'm Claudie Gueguen 👋
+# Hi, I'm Claudie 👋
 TypeScript & React Developer
 
 - 🌐 Portfolio: [https://claudiegueguen.com](https://claudiegueguen.com)

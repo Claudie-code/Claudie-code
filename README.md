@@ -20,15 +20,6 @@ Minimalist RSS reader.
 ### ClaudieDev
 Online learning platform for web development.  
 [Live Site](https://claudiedev.com) | 
-
----
-
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiegueguen/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@claudiedev.com)
-
-
 <!--
 **Claudie-code/Claudie-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
